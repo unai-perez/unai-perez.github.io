@@ -30,6 +30,18 @@ body {
   background-size: cover;
 }
 
+#error {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-image: url('img/404.jpg')
+}
+
+
 .portfolio-item {
   margin-bottom: 30px;
 }
