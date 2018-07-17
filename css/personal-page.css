@@ -23,7 +23,7 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
-.static-item {
+.static-background {
   height: 65vh;
   min-height: 300px;
   background: no-repeat center center scroll;
