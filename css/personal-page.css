@@ -140,7 +140,7 @@ dd {
 #content-text-align {
     display: inline-block; 
     text-align: justify;
-    width: 98%;
+    width: 100%;
     max-width: 1080px;
 }
 #content-text-align dt {
