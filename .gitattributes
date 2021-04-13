@@ -1,0 +1,4 @@
+rsat-test/downloadImg/LC08_L1GT_062213_20210303_20210312_01_T2.tar.gz filter=lfs diff=lfs merge=lfs -text
+rsat-test/downloadImg/MOD09GA.A2021061.h17v04.006.2021063025039.hdf filter=lfs diff=lfs merge=lfs -text
+rsat-test/downloadImg/S2 filter=lfs diff=lfs merge=lfs -text
+rsat-test/downloadImg/S2B_MSIL2A_20210321T104639_N0214_R051_T30TXM_20210321T134504.zip filter=lfs diff=lfs merge=lfs -text
